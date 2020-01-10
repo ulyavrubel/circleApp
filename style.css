@@ -18,3 +18,22 @@
   height: 40vw;
   width: 40vw;
 }
+
+@media (min-width: 500px) {
+  #root {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+  }
+  .body {
+    grid-column: 2/3;
+  }
+  .rectangular {
+    height: 50vh;
+    width: 50vh;
+  }
+  .circle {
+    height: 40vh;
+    width: 40vh;
+  }
+}
