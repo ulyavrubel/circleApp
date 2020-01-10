@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/circleApp/static/js/main.e7f952cb.chunk.js",
+    "main.js.map": "/circleApp/static/js/main.e7f952cb.chunk.js.map",
+    "runtime-main.js": "/circleApp/static/js/runtime-main.fbef51b6.js",
+    "runtime-main.js.map": "/circleApp/static/js/runtime-main.fbef51b6.js.map",
+    "static/js/2.6fc2f1d7.chunk.js": "/circleApp/static/js/2.6fc2f1d7.chunk.js",
+    "static/js/2.6fc2f1d7.chunk.js.map": "/circleApp/static/js/2.6fc2f1d7.chunk.js.map",
+    "index.html": "/circleApp/index.html",
+    "precache-manifest.cd07f00b28ba6b6ceb10d09598f8f8c8.js": "/circleApp/precache-manifest.cd07f00b28ba6b6ceb10d09598f8f8c8.js",
+    "service-worker.js": "/circleApp/service-worker.js",
+    "static/js/2.6fc2f1d7.chunk.js.LICENSE": "/circleApp/static/js/2.6fc2f1d7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbef51b6.js",
+    "static/js/2.6fc2f1d7.chunk.js",
+    "static/js/main.e7f952cb.chunk.js"
+  ]
+}
